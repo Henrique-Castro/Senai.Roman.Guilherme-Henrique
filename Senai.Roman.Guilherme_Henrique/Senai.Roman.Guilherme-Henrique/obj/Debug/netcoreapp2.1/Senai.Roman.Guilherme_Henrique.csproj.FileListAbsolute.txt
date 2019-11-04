@@ -1,0 +1,14 @@
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\bin\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.deps.json
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\bin\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.runtimeconfig.json
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\bin\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.runtimeconfig.dev.json
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\bin\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.dll
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.csprojAssemblyReference.cache
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.csproj.CoreCompileInputs.cache
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.RazorAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.RazorAssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.AssemblyInfoInputs.cache
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.AssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.RazorTargetAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\bin\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.pdb
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.dll
+C:\Users\46885473820\Documents\Git\Senai.Roman.Guilherme-Henrique\Senai.Roman.Guilherme_Henrique\Senai.Roman.Guilherme-Henrique\obj\Debug\netcoreapp2.1\Senai.Roman.Guilherme_Henrique.pdb
