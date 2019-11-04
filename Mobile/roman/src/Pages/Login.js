@@ -29,7 +29,7 @@ export default class Login extends Component {
     constructor() {
         super();
         this.state = {
-            userEmail: "",
+            userName: "",
             userPassword: "",
         }
     }
@@ -37,7 +37,7 @@ export default class Login extends Component {
     _goHome = async(token) =>{
         if(token != null){
             try{
-                await AsyncStorage.setItem('@gufos:token', token);
+                await AsyncStorage.setItem('@roman:token', token);
                 this.props.navigation.navigate('MainNavigator');
             }
             catch(error){
@@ -48,14 +48,14 @@ export default class Login extends Component {
 
     _signIn = async () => {
         // console.warn(this.state.userEmail + this.state.userPassword)
-        await fetch('http://192.168.7.85:5000/api/login', {
+        await fetch('http://localhost:5000/api/Login', {
             method: "POST",
             headers: {
                 Accept : "application/json",
                 "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                email: this.state.userEmail,
+                nome: this.state.userName,
                 senha: this.state.userPassword,
             }),
         })
@@ -68,7 +68,7 @@ export default class Login extends Component {
     render() {
         return (
             <View>
-                <TextInput value = {this.state.userEmail} style={styles.signInInput} placeholder="Email" onChangeText={userEmail => this.setState({userEmail})} />
+                <TextInput value = {this.state.userName} style={styles.signInInput} placeholder="Nome" onChangeText={userName => this.setState({userName})} />
                 <TextInput value = {this.state.userPassword} style={styles.signInInput} placeholder="Senha" onChangeText={userPassword => this.setState({userPassword})} />
                 <TouchableOpacity onPress={this._signIn} style={styles.buttonContainer}>
                     <Text style={styles.button}>Login</Text>
